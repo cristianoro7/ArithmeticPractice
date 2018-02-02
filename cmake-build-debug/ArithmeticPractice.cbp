@@ -102,6 +102,9 @@
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice7.c">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice8.c">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
