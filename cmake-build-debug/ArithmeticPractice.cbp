@@ -84,6 +84,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/Practice10.cpp">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/Practice11.cpp">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/Practice9.c">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice12.c">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice13.c">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice2.c">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
