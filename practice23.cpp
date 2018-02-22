@@ -5,7 +5,7 @@
  */
 
 
-bool verifyBinarySeachTree(int sequence[], int length) {
+bool verifyBinarySearchTree(int *sequence, int length) {
     if (sequence == nullptr || length <= 0) {
         return false;
     }
@@ -28,12 +28,12 @@ bool verifyBinarySeachTree(int sequence[], int length) {
 
     bool left = true;
     if (i > 0) {
-        left = verifyBinarySeachTree(sequence, i);
+        left = verifyBinarySearchTree(sequence, i);
     }
 
     bool right = true;
     if (i < length - 1) {
-        right = verifyBinarySeachTree(sequence + i, length - 1 - i);
+        right = verifyBinarySearchTree(sequence + i, length - 1 - i);
     }
     return left && right;
 }
