@@ -93,6 +93,9 @@
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/Practice9.c">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/interviwpractice1.c">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice12.c">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
@@ -163,6 +166,12 @@
 			<Option target="ArithmeticPractice"/>
 		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice32.cpp">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice33.cpp">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice34.cpp">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/practice39.cpp">
