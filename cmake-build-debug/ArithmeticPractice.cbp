@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/ practice38.cpp">
+			<Option target="ArithmeticPractice"/>
+		</Unit>
 		<Unit filename="/home/desperado/CLionProject/ArithmeticPractice/Practice10.cpp">
 			<Option target="ArithmeticPractice"/>
 		</Unit>
